@@ -1,5 +1,6 @@
 {
     "name": "碎碎步跑酷",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*"
